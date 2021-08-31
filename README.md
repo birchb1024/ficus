@@ -4,7 +4,7 @@ A Cue (cuelang) wrapper for Ansible. Provides clean inventories to traditional A
 Wrap Ansible 
 - Generate dynamic inventory from cuelang
 - Use Cue to make clean defined inventorys
-- invoke ansible-playbook from a 
+- invoke ansible-playbook from a cmd
 
 Advantages:
 - strict, type-checked inventories.
